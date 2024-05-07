@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BaseCharacterManager-0010.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Project\Test5_4\Intermediate\Build\Win64\x64\Test5_4Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Project\Test5_4\Plugins\BaseCharacterManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\BaseCharacterManager\Module.BaseCharacterManager.cpp.obj"
+"D:\Project\Test5_4\Plugins\BaseCharacterManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\BaseCharacterManager\BaseCharacter.cpp.obj"
+"D:\Project\Test5_4\Plugins\BaseCharacterManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\BaseCharacterManager\BaseCharacterManager.cpp.obj"
+"D:\Project\Test5_4\Plugins\BaseCharacterManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\BaseCharacterManager\Default.rc2.res"
+/OUT:"D:\Project\Test5_4\Plugins\BaseCharacterManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\BaseCharacterManager\UnrealEditor-BaseCharacterManager-0010.lib"

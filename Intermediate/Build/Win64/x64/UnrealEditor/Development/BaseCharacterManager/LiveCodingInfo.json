@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BaseCharacterManager.cpp.obj": [
+			"BaseCharacter.gen.cpp.obj",
+			"BaseCharacterManager.init.gen.cpp.obj",
+			"BaseCharacter.cpp.obj",
+			"BaseCharacterManager.cpp.obj"
+		]
+	}
+}

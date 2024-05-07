@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\project\\test5_4\\plugins\\basecharactermanager\\source\\basecharactermanager\\private\\basecharactermanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\project\\test5_4\\intermediate\\build\\win64\\x64\\test5_4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\project\\test5_4\\plugins\\basecharactermanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\basecharactermanager\\definitions.basecharactermanager.h",
+            "d:\\project\\test5_4\\plugins\\basecharactermanager\\source\\basecharactermanager\\public\\basecharactermanager.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

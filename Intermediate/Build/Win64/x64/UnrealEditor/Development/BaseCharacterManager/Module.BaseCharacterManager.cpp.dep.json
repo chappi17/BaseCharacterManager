@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\project\\test5_4\\plugins\\basecharactermanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\basecharactermanager\\module.basecharactermanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\project\\test5_4\\intermediate\\build\\win64\\x64\\test5_4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\project\\test5_4\\plugins\\basecharactermanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\basecharactermanager\\definitions.basecharactermanager.h",
+            "d:\\project\\test5_4\\plugins\\basecharactermanager\\intermediate\\build\\win64\\unrealeditor\\inc\\basecharactermanager\\uht\\basecharacter.gen.cpp",
+            "d:\\project\\test5_4\\plugins\\basecharactermanager\\source\\basecharactermanager\\public\\basecharacter.h",
+            "e:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\project\\test5_4\\plugins\\basecharactermanager\\intermediate\\build\\win64\\unrealeditor\\inc\\basecharactermanager\\uht\\basecharacter.generated.h",
+            "d:\\project\\test5_4\\plugins\\basecharactermanager\\intermediate\\build\\win64\\unrealeditor\\inc\\basecharactermanager\\uht\\basecharactermanager.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

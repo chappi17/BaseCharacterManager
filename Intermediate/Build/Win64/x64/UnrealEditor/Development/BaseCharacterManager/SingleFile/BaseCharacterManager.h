@@ -1,0 +1,1 @@
+#include "D:/Project/Test5_4/Plugins/BaseCharacterManager/Source/BaseCharacterManager/Public/BaseCharacterManager.h"
